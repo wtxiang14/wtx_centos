@@ -5,4 +5,7 @@ git is a mutable index called stage
 wtx creating a new branch is quick
 =======
 wu tian xiang
->>>>>>> dev
+>>>>>>> de
+v
+
+34343
